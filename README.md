@@ -3,9 +3,9 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+`TODO://` A flash card 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/JonaNathan7/FlashcardApp/blob/main/FlashcardApp.gif" width=200><br>
 
 
 ## Required
