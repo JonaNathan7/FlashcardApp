@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` A flash card 
+`TODO://` This Android application allows you to create memory cards (flashcards) with a question displayed on the front and an answer displayed on the back. The user can switch between question and answer by tapping on the card. Additionally, he can choose between multiple choice answers displayed below the card, and the background color of the selected answers changes to indicate whether the answer was correct.
 
 <img src="https://github.com/JonaNathan7/FlashcardApp/blob/main/FlashcardApp.gif" width=200><br>
 
